@@ -1,0 +1,131 @@
+h1.edu {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 25px;
+    left: 50px;
+    margin-top: -90px;
+    position: relative;
+}
+
+/*degree */
+
+h2.deg {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px;
+    left: 50px;
+    margin-top: 20px;
+    position: relative;
+}
+
+h3.period {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 50px;
+    margin-top: -20px;
+    position: relative;
+}
+
+.uni {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: -25px;
+    margin-left: 28px
+}
+
+/*foundation */
+
+.deg2 {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px;
+    left: 50px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.period2 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 50px;
+    margin-top: -10px;
+    position: relative;
+}
+
+.uni2 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: -20px;
+    margin-left: 28px
+}
+
+/*high-school*/
+
+.deg3 {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px;
+    left: 50px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.period3 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 50px;
+    margin-top: -10px;
+    position: relative;
+}
+
+.uni3 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: -20px;
+    margin-left: 28px
+}
+
+/*tecnical_skills*/
+
+.tech_skills {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 25px;
+    left: 50px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.tech_skills_ls {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-left: 28px
+}
+
+/*languages*/
+
+.languages {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 25px;
+    left: 50px;
+    margin-top: 10px;
+    position: relative;
+}
+
+.languages_ls {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-left: 28px
+}
+

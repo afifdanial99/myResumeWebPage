@@ -1,0 +1,17 @@
+.about {
+    font-family: sans-serif; 
+    font-size: 25px;
+    font-weight: bold;
+    left: 50px;
+    position: relative;
+    top: 30px;
+}
+
+p.detail {
+    font-family: sans-serif; 
+    font-size: 18px;
+    position: relative;
+    left: 20px;
+    top: 35px;
+
+}

@@ -1,0 +1,48 @@
+.v_line {
+    border-left: 4px solid black;
+    height: 2150px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.h_line {
+    border: 2px solid black;
+    position: relative;
+    margin-top: -100px;
+}
+
+.h_line2 {
+    border: 2px solid black;
+    position: relative;
+    margin-top: 45px;
+
+}
+
+.h_line3 {
+    border: 2px solid black;
+    top: 44rem;
+    position: relative;
+}
+
+.h_line4 {
+    border: 2px solid black;
+    top: 46.4rem;
+    position: relative;
+}
+
+.h_line5 {
+    border: 2px solid black;
+    top: 72rem;
+    width: 790px;
+    position: relative;
+    left: 395px;
+}
+
+.h_line6 {
+    border: 2px solid black;
+    top: 74.6rem;
+    width: 790px;
+    position: relative;
+    left: 395px;
+}

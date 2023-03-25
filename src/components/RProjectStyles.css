@@ -1,0 +1,64 @@
+.r_proj {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 25px;
+    left: 51rem;
+    bottom: 78.7rem;
+    position: relative;
+}
+
+.fyp {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px;
+    left: 51rem;
+    bottom: 78.6rem;
+    position: relative;
+}
+
+.caption {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 20px;
+    left: 51rem;
+    bottom: 79.4rem;
+    position: relative;
+}
+
+.expl {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 49.5rem;
+    bottom: 79.4rem;
+    position: relative;
+}
+
+/*divisionly*/
+
+.app {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px;
+    left: 51rem;
+    bottom: 79rem;
+    position: relative;
+}
+
+.caption2 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 20px;
+    left: 51rem;
+    bottom: 79.4rem;
+    position: relative;
+}
+
+.expl2 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 49.5rem;
+    bottom: 79.4rem;
+    position: relative;
+}

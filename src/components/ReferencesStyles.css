@@ -1,0 +1,68 @@
+.ref {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 25px;
+    left: 50px;
+    bottom: 58.5rem;
+    position: relative;
+}
+
+/*mr.derrick*/
+
+.ref1 {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px;
+    left: 50px;
+    bottom: 58.5rem;
+    position: relative;
+}
+
+.info {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 50px;
+    bottom: 59rem;
+    position: relative;
+}
+
+.contact {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 27px;
+    bottom: 59rem;
+    position: relative;
+}
+
+/*mr. hazwan*/
+
+
+.ref2 {
+    font-family: sans-serif; 
+    font-weight: bold;
+    font-size: 20px;
+    left: 50px;
+    bottom: 58.5rem;
+    position: relative;
+}
+
+.info2 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 50px;
+    bottom: 59rem;
+    position: relative;
+}
+
+.contact2 {
+    font-family: sans-serif; 
+    font-weight: normal;
+    font-size: 18px;
+    left: 27px;
+    bottom: 59rem;
+    position: relative;
+}
+
