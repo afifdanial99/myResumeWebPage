@@ -17,8 +17,13 @@
 <!-- GETTING STARTED -->
 ## Remarks
 
+Tried to turn my cv into a webpage, can click this link for the pdf.
+
+pdf of cv link: [https://github.com/afifdanial99/myResumeWebPage/blob/master/Resume%20Web%20page%20with%20ReactJS.pdf]
+
 The webpage is deployed using vercel app. Please click the link below to visit the webpage.
-https://my-resume-web-page-85j2va4y6-afifdanial99.vercel.app/.
+
+webpage of cv: [https://my-resume-web-page-85j2va4y6-afifdanial99.vercel.app/.]
 
 Honestly, I could make this webpage better with cleaner code and responsive design but I need to learn more about html/css/reactjs. This is my first time using reactJs so it takes time to learn about it for a while.
 
