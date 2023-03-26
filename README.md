@@ -62,6 +62,7 @@ Repo Link: [https://github.com/afifdanial99/myResumeWebPage)
 * [Vercel- Webpage Deployment](https://vercel.com/)
 * [W2 Schools-html/css tutorial](https://www.w3schools.com/css/)
 * [React Icons- all icons used on webpage are taken from here](https://react-icons.github.io/react-icons/search)
+* [my youtube video reference to help me](https://www.youtube.com/watch?v=0h2b4ftbZcU&t=606s&ab_channel=Tech2etc)
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
